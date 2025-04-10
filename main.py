@@ -8,6 +8,7 @@ while True:
   suma = sum(lista_numeros_ingresados)
   promedio = (sum(lista_numeros_ingresados)) / len(lista_numeros_ingresados)
 
+print()
 print(f'La lista de numeros es de: {lista_numeros_ingresados}')
 print(f'La suma de los elementos es de: {suma}')
 print(f'El promedio de los elementos es de: {promedio}')
